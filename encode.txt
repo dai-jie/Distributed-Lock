@@ -1,0 +1,2 @@
+op::clientid::op内容
+msg::clientid::msg内容
